@@ -13,5 +13,5 @@ For FCI Fayoum students, you can find all the materials we discuss here.
 
 
 
-Reference book: [Assembly Language for Intel-Based Computers, 4th Edition - Kip Irvine](http://kipirvine.com/asm/4th/index.html)
+Lab Reference book: [Assembly Language for Intel-Based Computers, 4th Edition - Kip Irvine](http://kipirvine.com/asm/4th/index.html)
 
