@@ -13,6 +13,7 @@ For FCI Fayoum students, you can find all the materials we discuss here.
 | Lab 5       | Thursday<br />01-11-2018<br />Wednesday<br />07-11-2018 | Lab 5 - Data Transfers, Addressing, and Arithmetic   | [PPT](/Lab%20slides/Lab%205%20-%20Data%20Transfers,%20Addressing,%20and%20Arithmetic.pdf) |
 | Lab 6       | Thursday<br />08-11-2018<br />Wednesday<br />21-11-2018 | Lab 6 - Data Transfers, Addressing, and Arithmetic 2 | [PPT](/Lab%20slides/Lab%206%20-%20Data%20Transfers,%20Addressing,%20and%20Arithmetic%202.pdf) Assignment is a self study section inside the ppt |
 | Lab 7       | Thursday<br />22-11-2018<br />Wednesday<br />28-11-2018 | Lab 7 - Interrupts and Procedures                    | [PPT](/Lab%20slides/Lab%207%20-%20Interrupts%20and%20Procedures.pdf) [Assignment](/Lab%20Assignments/Chapter%205%20Sheet.docx) |
+| Lab 8       | Thursday<br />29-11-2018<br />Wednesday<br />05-12-2018 | Lab 8 - MDA 8086 kit                                 | [PPT](/Lab%20slides/Lab%208%20-%20MDA%208086%20kit.pdf)      |
 
 
 
