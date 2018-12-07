@@ -1,10 +1,15 @@
 # Lab Projects Ideas
 
-- Each team should choose one idea from the listed ideas.
+Read the following points carefully:
+
+- Each team should choose one idea from the listed ideas. A secondary project idea should be chosen as well in case the selected project was out of selection.
 
 
 - A team is formed by 3, 4, 5, or 6 members.
-- After choosing your idea, send to me an email with the **team members**, **team name**, and **the idea** and wait for a **confirmation** from me.
+- After choosing your idea, send to me an email with the **team members**, **team name**, **Primary idea**, and **Secondary idea** then wait for a **confirmation** from me.
+
+  - Email: "mma18@fayoum.edu.eg"
+- The details email should be sent before **Monday** **"10-12-2018"**.
 - Projects ideas should be balanced over all the teams. I might force a team to an idea if there aren't enough teams in it.
 - Each project contains a **bonus** task.
 - **Copying** code from each others is **forbidden**.
@@ -121,13 +126,13 @@
 
 ## Registered ideas and teams:
 
-| Project title | Teams registered | Count |
-| ------------- | ---------------- | ----- |
-| **Project 1** |                  | **0** |
-| **Project 2** |                  | **0** |
-| **Project 3** |                  | **0** |
-| **Project 4** |                  | **0** |
-| **Project 5** |                  | **0** |
+| Project title             | Teams registered | Count |
+| ------------------------- | ---------------- | ----- |
+| **Shape detector**        |                  | **0** |
+| **Expression calculator** |                  | **0** |
+| **String drawer**         |                  | **0** |
+| **Contact list**          |                  | **0** |
+| **Binary search**         |                  | **0** |
 
 
 
