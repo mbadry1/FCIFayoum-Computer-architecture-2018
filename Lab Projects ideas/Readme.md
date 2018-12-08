@@ -129,19 +129,55 @@ Read the following points carefully:
 | Project title             | Teams registered | Count |
 | ------------------------- | ---------------- | ----- |
 | **Shape detector**        |                  | **0** |
-| **Expression calculator** |                  | **0** |
-| **String drawer**         |                  | **0** |
-| **Contact list**          |                  | **0** |
-| **Binary search**         |                  | **0** |
+| **Expression calculator** | BroadCast, E.S.M | **2** |
+| **String drawer**         | Strong 🤘         | **1** |
+| **Contact list**          | EGO              | **1** |
+| **Binary search**         | RAMD             | **1** |
 
 
 
 ## Teams
 
-| Team        | *Team name here*        |
-| ----------- | ----------------------- |
-| **Problem** | ***Problem name here*** |
-| **Members** | ***Member name here***  |
-|             | ***Member name here***  |
-|             | ***Member name here***  |
-|             | ***Member name here***  |
+| Team        | *BroadCast*               |
+| ----------- | ------------------------- |
+| **Problem** | **Expression Calculator** |
+| **Members** | Tamer Sayed               |
+|             | Bahi Mohamed              |
+|             | Mohamed Nafeaa            |
+|             | Mohamed Sayed             |
+
+
+| Team        | RAMD                  |
+| ----------- | --------------------- |
+| **Problem** | **Binary Search**     |
+| **Members** | Rahma Hassan Mohammed |
+|             | Mariam Gomaa Ali      |
+|             | Aya Ahmed Oweis       |
+|             | Raghda Mahmoud Oweis  |
+|             | Nora Salama Mohammed  |
+|             | Doaa Hassan Hussien   |
+
+| Team        | EGO                       |
+| ----------- | ------------------------- |
+| **Problem** | **Contact List**          |
+| **Members** | Kareem Abdeltawab Ahmed   |
+|             | Ali Salah                 |
+|             | Khaled Kamal              |
+|             | Mostafa Mohamed Tawfike   |
+|             | Abdelrahman Mostafa Salah |
+|             | Essam Ahmed Radwan        |
+
+| Team        | E.S.M                      |
+| ----------- | -------------------------- |
+| **Problem** | **Expression Calculator**  |
+| **Members** | Esraa Ahmed Esmael         |
+|             | Shimaa Ezat Mohamed        |
+|             | Mohamed Ahmed Mahmoud Nasr |
+
+| Team        | Strong 🤘                      |
+| ----------- | ----------------------------- |
+| **Problem** | **String Drawer**             |
+| **Members** | Omnia Mahmoud Mohamed Ahmed   |
+|             | Sherook Mohamed               |
+|             | Ahmed Moawad Zaki             |
+|             | Abdelrahman Mohamed Noureldin |
