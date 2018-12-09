@@ -132,7 +132,7 @@ Read the following points carefully:
 | **Expression calculator** | BroadCast, E.S.M, MASM | **3** |
 | **String drawer**         | Strong 🤘               | **1** |
 | **Contact list**          | EGO                    | **1** |
-| **Binary search**         | RAMD                   | **1** |
+| **Binary search**         | RAMD, I.A.A.A.A        | **2** |
 
 
 
@@ -191,3 +191,12 @@ Read the following points carefully:
 |             | Ebraam Ayman              |
 |             | Nourhan Tarek             |
 |             | Mohamed Eways             |
+
+| Team        | I.A.A.A.A                |
+| ----------- | ------------------------ |
+| **Problem** | **Binary Search**        |
+| **Members** | Ashraf AbdElhady Hussin  |
+|             | Isalm Ahmed AbdElazim    |
+|             | AbduElrhman Magdy Mohmed |
+|             | Ahmed Mohmed Elsyed      |
+|             | Ahmed Mohmed AbdEslam    |
