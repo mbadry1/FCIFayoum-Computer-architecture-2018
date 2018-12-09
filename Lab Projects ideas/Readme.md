@@ -126,13 +126,13 @@ Read the following points carefully:
 
 ## Registered ideas and teams:
 
-| Project title             | Teams registered | Count |
-| ------------------------- | ---------------- | ----- |
-| **Shape detector**        |                  | **0** |
-| **Expression calculator** | BroadCast, E.S.M | **2** |
-| **String drawer**         | Strong 🤘         | **1** |
-| **Contact list**          | EGO              | **1** |
-| **Binary search**         | RAMD             | **1** |
+| Project title             | Teams registered       | Count |
+| ------------------------- | ---------------------- | ----- |
+| **Shape detector**        |                        | **0** |
+| **Expression calculator** | BroadCast, E.S.M, MASM | **3** |
+| **String drawer**         | Strong 🤘               | **1** |
+| **Contact list**          | EGO                    | **1** |
+| **Binary search**         | RAMD                   | **1** |
 
 
 
@@ -181,3 +181,13 @@ Read the following points carefully:
 |             | Sherook Mohamed               |
 |             | Ahmed Moawad Zaki             |
 |             | Abdelrahman Mohamed Noureldin |
+
+| Team        | MASM                      |
+| ----------- | ------------------------- |
+| **Problem** | **Expression Calculator** |
+| **Members** | Mohammed Ali              |
+|             | Abdularahman Mohamed      |
+|             | Abdularahman Atef         |
+|             | Ebraam Ayman              |
+|             | Nourhan Tarek             |
+|             | Mohamed Eways             |
