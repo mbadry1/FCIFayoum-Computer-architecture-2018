@@ -18,6 +18,7 @@ Read the following points carefully:
 ## Announcements
 
 - `Template.asm` file has been added.
+- Expression calculator and Binary search projects is now filled.
 
 
 ## Useful codes for the project
@@ -126,13 +127,13 @@ Read the following points carefully:
 
 ## Registered ideas and teams:
 
-| Project title             | Teams registered       | Count |
-| ------------------------- | ---------------------- | ----- |
-| **Shape detector**        |                        | **0** |
-| **Expression calculator** | BroadCast, E.S.M, MASM | **3** |
-| **String drawer**         | Strong 🤘               | **1** |
-| **Contact list**          | EGO                    | **1** |
-| **Binary search**         | RAMD, I.A.A.A.A        | **2** |
+| Project title             | Teams registered                  | Count |
+| ------------------------- | --------------------------------- | ----- |
+| **Shape detector**        |                                   | **0** |
+| **Expression calculator** | BroadCast, E.S.M, MASM, aa4086    | **4** |
+| **String drawer**         | Strong 🤘                          | **1** |
+| **Contact list**          | EGO                               | **1** |
+| **Binary search**         | RAMD, I.A.A.A.A, ghosts 👻, aaaime | **4** |
 
 
 
@@ -200,3 +201,32 @@ Read the following points carefully:
 |             | AbduElrhman Magdy Mohmed |
 |             | Ahmed Mohmed Elsyed      |
 |             | Ahmed Mohmed AbdEslam    |
+
+| Team        | ghosts 👻          |
+| ----------- | ----------------- |
+| **Problem** | **Binary Search** |
+| **Members** | Kristena Emad     |
+|             | Eeren Atef        |
+|             | Asmaa Abdelnasser |
+|             | Remon Ezzat       |
+|             | Ibram Samir       |
+
+| Team        | aaaime                    |
+| ----------- | ------------------------- |
+| **Problem** | **Binary Search**         |
+| **Members** | Ahmed Hegag               |
+|             | Ahmed Mohamed Ibrahim     |
+|             | Ahmed Mohamoud Abdelazime |
+|             | Islam Mohamed             |
+|             | Michael Adel              |
+|             | Ezzat mohamed             |
+
+| Team        | aa4086                    |
+| ----------- | ------------------------- |
+| **Problem** | **Expression Calculator** |
+| **Members** | Abdelrahman Ahmed         |
+|             | Badr eldin Mohamed        |
+|             | Hassan Abdelrahman        |
+|             | Yomna Hosni Abdelaziz     |
+|             | Asmaa Khaled Ahmed        |
+|             | Kirolos Gerges Ibrahim    |
