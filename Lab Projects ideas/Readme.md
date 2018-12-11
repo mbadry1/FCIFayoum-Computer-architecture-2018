@@ -131,8 +131,8 @@ Read the following points carefully:
 | ------------------------- | --------------------------------- | ----- |
 | **Shape detector**        |                                   | **0** |
 | **Expression calculator** | BroadCast, E.S.M, MASM, aa4086    | **4** |
-| **String drawer**         | Strong 🤘                          | **1** |
-| **Contact list**          | EGO                               | **1** |
+| **String drawer**         | Strong 🤘, Hackers                 | **2** |
+| **Contact list**          | EGO, Violets, Snipers ✌           | **3** |
 | **Binary search**         | RAMD, I.A.A.A.A, ghosts 👻, aaaime | **4** |
 
 
@@ -146,6 +146,7 @@ Read the following points carefully:
 |             | Bahi Mohamed              |
 |             | Mohamed Nafeaa            |
 |             | Mohamed Sayed             |
+|             | Abdelaziz Hamed           |
 
 
 | Team        | RAMD                  |
@@ -230,3 +231,30 @@ Read the following points carefully:
 |             | Yomna Hosni Abdelaziz     |
 |             | Asmaa Khaled Ahmed        |
 |             | Kirolos Gerges Ibrahim    |
+
+| Team        | Violets           |
+| ----------- | ----------------- |
+| **Problem** | **Contact List**  |
+| **Members** | Asmaa Mahmoud Ali |
+|             | Reham Mohamed     |
+|             | Reem Osama        |
+|             | Esraa Adel        |
+
+| Team        | Snipers ✌         |
+| ----------- | ----------------- |
+| **Problem** | **Contact List**  |
+| **Members** | Ahmed Gomaa soFy  |
+|             | Ahmed Nour_eldin  |
+|             | Khalid abdelrahmn |
+|             | Mostafa Tarek     |
+|             | Hussein Mohammed  |
+
+| Team        | Hackers                    |
+| ----------- | -------------------------- |
+| **Problem** | **String Drawer**          |
+| **Members** | Ahmed Mahmoud Saber Khamis |
+|             | Tariq Mahmoud Yousef       |
+|             | Maaz Ayman Gamal           |
+|             | Mahmoud Ezzat Mahmoud      |
+|             | Mohammed Ramadan Mohammed  |
+|             | Khaled Sherif              |
