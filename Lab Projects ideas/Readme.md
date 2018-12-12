@@ -131,7 +131,7 @@ Read the following points carefully:
 | ------------------------- | --------------------------------- | ----- |
 | **Shape detector**        |                                   | **0** |
 | **Expression calculator** | BroadCast, E.S.M, MASM, aa4086    | **4** |
-| **String drawer**         | Strong 🤘, Hackers                 | **2** |
+| **String drawer**         | Strong 🤘, Hackers, Heros          | **3** |
 | **Contact list**          | EGO, Violets, Snipers ✌           | **3** |
 | **Binary search**         | RAMD, I.A.A.A.A, ghosts 👻, aaaime | **4** |
 
@@ -147,6 +147,7 @@ Read the following points carefully:
 |             | Mohamed Nafeaa            |
 |             | Mohamed Sayed             |
 |             | Abdelaziz Hamed           |
+|             | Mahmoud Ali Kamel         |
 
 
 | Team        | RAMD                  |
@@ -258,3 +259,12 @@ Read the following points carefully:
 |             | Mahmoud Ezzat Mahmoud      |
 |             | Mohammed Ramadan Mohammed  |
 |             | Khaled Sherif              |
+
+| Team        | Heros                           |
+| ----------- | ------------------------------- |
+| **Problem** | **String Drawer**               |
+| **Members** | Hossam Mohamed Kotp             |
+|             | Abd El-hamed Ahmed Abd El-hamed |
+|             | Emad Mohamed Fauk               |
+|             | Ahmed Kamal Mabrouk             |
+|             | Bassel Mahmoud                  |
