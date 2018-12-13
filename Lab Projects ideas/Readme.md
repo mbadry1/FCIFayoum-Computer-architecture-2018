@@ -127,13 +127,13 @@ Read the following points carefully:
 
 ## Registered ideas and teams:
 
-| Project title             | Teams registered                  | Count |
-| ------------------------- | --------------------------------- | ----- |
-| **Shape detector**        |                                   | **0** |
-| **Expression calculator** | BroadCast, E.S.M, MASM, aa4086    | **4** |
-| **String drawer**         | Strong 🤘, Hackers, Heros          | **3** |
-| **Contact list**          | EGO, Violets, Snipers ✌           | **3** |
-| **Binary search**         | RAMD, I.A.A.A.A, ghosts 👻, aaaime | **4** |
+| Project title             | Teams registered                         | Count |
+| ------------------------- | ---------------------------------------- | ----- |
+| **Shape detector**        |                                          | **0** |
+| **Expression calculator** | BroadCast, E.S.M, MASM, aa4086           | **4** |
+| **String drawer**         | Strong 🤘, Hackers, Heros, remondahany027 | **4** |
+| **Contact list**          | EGO, Violets, Snipers ✌                  | **3** |
+| **Binary search**         | RAMD, I.A.A.A.A, ghosts 👻, aaaime        | **4** |
 
 
 
@@ -241,14 +241,15 @@ Read the following points carefully:
 |             | Reem Osama        |
 |             | Esraa Adel        |
 
-| Team        | Snipers ✌         |
-| ----------- | ----------------- |
-| **Problem** | **Contact List**  |
-| **Members** | Ahmed Gomaa soFy  |
-|             | Ahmed Nour_eldin  |
-|             | Khalid abdelrahmn |
-|             | Mostafa Tarek     |
-|             | Hussein Mohammed  |
+| Team        | Snipers ✌          |
+| ----------- | ------------------ |
+| **Problem** | **Contact List**   |
+| **Members** | Ahmed Gomaa soFy   |
+|             | Ahmed Nour_eldin   |
+|             | Khalid abdelrahmn  |
+|             | Mostafa Tarek      |
+|             | Hussein Mohammed   |
+|             | Ahmed Qorany Rabea |
 
 | Team        | Hackers                    |
 | ----------- | -------------------------- |
@@ -268,3 +269,13 @@ Read the following points carefully:
 |             | Emad Mohamed Fauk               |
 |             | Ahmed Kamal Mabrouk             |
 |             | Bassel Mahmoud                  |
+
+| Team        | **remondahany027** |
+| ----------- | ------------------ |
+| **Problem** | **String drawer**  |
+| **Members** | Remonda hany       |
+|             | Sara sayed         |
+|             | Sara gerges        |
+|             | Aya ashrey         |
+|             | Aya saber          |
+|             | Dalia mohsen       |
