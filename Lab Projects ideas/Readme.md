@@ -129,7 +129,7 @@ Read the following points carefully:
 
 | Project title             | Teams registered                         | Count |
 | ------------------------- | ---------------------------------------- | ----- |
-| **Shape detector**        |                                          | **0** |
+| **Shape detector**        | ms2102                                   | **1** |
 | **Expression calculator** | BroadCast, E.S.M, MASM, aa4086           | **4** |
 | **String drawer**         | Strong 🤘, Hackers, Heros, remondahany027 | **4** |
 | **Contact list**          | EGO, Violets, Snipers ✌                  | **3** |
@@ -233,13 +233,14 @@ Read the following points carefully:
 |             | Asmaa Khaled Ahmed        |
 |             | Kirolos Gerges Ibrahim    |
 
-| Team        | Violets           |
-| ----------- | ----------------- |
-| **Problem** | **Contact List**  |
-| **Members** | Asmaa Mahmoud Ali |
-|             | Reham Mohamed     |
-|             | Reem Osama        |
-|             | Esraa Adel        |
+| Team        | Violets               |
+| ----------- | --------------------- |
+| **Problem** | **Contact List**      |
+| **Members** | Asmaa Mahmoud Ali     |
+|             | Reham Mohamed         |
+|             | Reem Osama            |
+|             | Esraa Adel            |
+|             | Mansour Saleh Mansour |
 
 | Team        | Snipers ✌          |
 | ----------- | ------------------ |
@@ -269,6 +270,7 @@ Read the following points carefully:
 |             | Emad Mohamed Fauk               |
 |             | Ahmed Kamal Mabrouk             |
 |             | Bassel Mahmoud                  |
+|             | Maybour Louis                   |
 
 | Team        | **remondahany027** |
 | ----------- | ------------------ |
@@ -279,3 +281,13 @@ Read the following points carefully:
 |             | Aya ashrey         |
 |             | Aya saber          |
 |             | Dalia mohsen       |
+
+| Team        | **ms2102**          |
+| ----------- | ------------------- |
+| **Problem** | **shape detector**  |
+| **Members** | Mariam Suleiman     |
+|             | Ibram Ayman Farahat |
+|             | Mohamed Naser Soufy |
+|             | Ahmed Kamal Elsayed |
+|             | Mena Karam Khalel   |
+
