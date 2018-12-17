@@ -133,7 +133,7 @@ Read the following points carefully:
 | **Expression calculator** | BroadCast, E.S.M, MASM, aa4086           | **4** |
 | **String drawer**         | Strong 🤘, Hackers, Heros, remondahany027 | **4** |
 | **Contact list**          | EGO, Violets, Snipers ✌                  | **3** |
-| **Binary search**         | RAMD, I.A.A.A.A, ghosts 👻, aaaime        | **4** |
+| **Binary search**         | RAMD,  A.I.A.M.A.A, ghosts 👻, aaaime     | **4** |
 
 
 
@@ -195,7 +195,7 @@ Read the following points carefully:
 |             | Nourhan Tarek             |
 |             | Mohamed Eways             |
 
-| Team        | I.A.A.A.A                |
+| Team        | A.I.A.M.A.A              |
 | ----------- | ------------------------ |
 | **Problem** | **Binary Search**        |
 | **Members** | Ashraf AbdElhady Hussin  |
@@ -203,6 +203,7 @@ Read the following points carefully:
 |             | AbduElrhman Magdy Mohmed |
 |             | Ahmed Mohmed Elsyed      |
 |             | Ahmed Mohmed AbdEslam    |
+|             | Mostafa safout           |
 
 | Team        | ghosts 👻          |
 | ----------- | ----------------- |
